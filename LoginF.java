@@ -89,7 +89,7 @@ public class LoginF extends JFrame {
         
         add(mainPnl);
         
-        
+        pack();
         setVisible(true);
     }
     
